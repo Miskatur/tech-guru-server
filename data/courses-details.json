@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "course_name": "Digital Markeeting",
+        "instructor": "Steven Rutherford",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/653566556.png",
+        "classes": 52,
+        "hours": 112,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": 2,
+        "course_name": "Graphics Design And UI Design",
+        "instructor": "Pablo Picasso",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/694809178.png",
+        "classes": 32,
+        "hours": 64,
+        "details": "“UI” stands for user interface—the graphical portion of an app, website, or device that a human user interacts with. UI designers seek to make these layouts and interactive elements intuitive, accessible, and inclusive."
+    },
+    {
+        "id": 3,
+        "course_name": "Full Stack Web Development",
+        "instructor": "Chamok Hasan",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/1973823540.png",
+        "classes": 56,
+        "hours": 112,
+        "details": "Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with.."
+    },
+    {
+        "id": 4,
+        "course_name": "Web Design With Shopify",
+        "instructor": "James Harrington",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/631413711.png",
+        "classes": 26,
+        "hours": 52,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": 5,
+        "course_name": "MERN Stack Developer",
+        "instructor": "Jhankar Mahabub",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/576995406.jpg",
+        "classes": 66,
+        "hours": 132,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": 6,
+        "course_name": "Full Stack Motion Graphics",
+        "instructor": "Kathrin Osborn",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2102572322.png",
+        "classes": 48,
+        "hours": 96,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": 7,
+        "course_name": "Basic Computer",
+        "instructor": "Shukkur Ali",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2056590566.png",
+        "classes": 16,
+        "hours": 32,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    },
+    {
+        "id": 8,
+        "course_name": "Professional MS Excel",
+        "instructor": "Tareq Quazi",
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2106941855.png",
+        "classes": 12,
+        "hours": 20,
+        "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
+    }
+]
