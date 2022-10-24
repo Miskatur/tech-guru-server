@@ -3,48 +3,64 @@
         "id": 1,
         "course_name": "Digital Markeeting",
         "instructor": "Steven Rutherford",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/653566556.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/653566556.png",
+        "classes": 52,
+        "hours": 112
     },
     {
         "id": 2,
         "course_name": "Graphics Design And UI Design",
         "instructor": "Pablo Picasso",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/694809178.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/694809178.png",
+        "classes": 32,
+        "hours": 64
     },
     {
         "id": 3,
         "course_name": "Full Stack Web Development",
         "instructor": "Chamok Hasan",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/1973823540.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/1973823540.png",
+        "classes": 56,
+        "hours": 112
     },
     {
         "id": 4,
         "course_name": "Web Design With Shopify",
         "instructor": "James Harrington",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/631413711.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/631413711.png",
+        "classes": 26,
+        "hours": 52
     },
     {
         "id": 5,
         "course_name": "MERN Stack Developer",
         "instructor": "Jhankar Mahabub",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/576995406.jpg"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/576995406.jpg",
+        "classes": 66,
+        "hours": 132
     },
     {
         "id": 6,
         "course_name": "Full Stack Motion Graphics",
         "instructor": "Kathrin Osborn",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2102572322.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2102572322.png",
+        "classes": 48,
+        "hours": 96
     },
     {
         "id": 7,
         "course_name": "Basic Computer",
         "instructor": "Shukkur Ali",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2056590566.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2056590566.png",
+        "classes": 16,
+        "hours": 32
     },
     {
         "id": 8,
         "course_name": "Professional MS Excel",
         "instructor": "Tareq Quazi",
-        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2106941855.png"
+        "image": "https://shikhbeshobai.com/public/backend/assets/img/courses/2106941855.png",
+        "classes": 12,
+        "hours": 20
     }
 ]
