@@ -7,7 +7,7 @@
         "classes": 52,
         "hours": 112,
         "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
-        "instructor-img": "../assets/pic1.jpg"
+        "instructorImg": "../assets/pic1.jpg"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "classes": 32,
         "hours": 64,
         "details": "“UI” stands for user interface—the graphical portion of an app, website, or device that a human user interacts with. UI designers seek to make these layouts and interactive elements intuitive, accessible, and inclusive.",
-        "instructor-img": "../assets/pic2.jpg"
+        "instructorImg": "../assets/pic2.jpg"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "classes": 56,
         "hours": 112,
         "details": "Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with..",
-        "instructor-img": "../assets/pic3.jpg"
+        "instructorImg": "../assets/pic3.jpg"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "classes": 26,
         "hours": 52,
         "details": "Shopify is an E-Commerce platform that allows you to build and manage Online Stores. The Shopify Website Design tools and templates can help users in developing an aesthetic outlook for your business.",
-        "instructor-img": "../assets/pic4.jpg"
+        "instructorImg": "../assets/pic4.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "classes": 66,
         "hours": 132,
         "details": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based.",
-        "instructor-img": "../assets/pic6.jpg"
+        "instructorImg": "../assets/pic6.jpg"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "classes": 48,
         "hours": 96,
         "details": "Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects.",
-        "instructor-img": "../assets/pic5.jpg"
+        "instructorImg": "../assets/pic5.jpg"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "classes": 16,
         "hours": 32,
         "details": "A computer is a. device for working with information. The information can be numbers, words, pictures, movies, or sounds. Computer information is also called data. Computers can process huge amounts of data very quickly.",
-        "instructor-img": "../assets/pic7.jpg"
+        "instructorImg": "../assets/pic7.jpg"
     },
     {
         "id": 8,
