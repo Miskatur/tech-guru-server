@@ -7,7 +7,7 @@
         "classes": 52,
         "hours": 112,
         "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
-        "instructorImg": "../assets/pic1.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/young-smiling-man-bearded-businessman-pointing-with-two-finger-upward_171337-9572.jpg?w=996&t=st=1666725189~exp=1666725789~hmac=2d3c1eb883ddd1ff7154262c9549513e567314a7e66cd77572e3df752615717b"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "classes": 32,
         "hours": 64,
         "details": "“UI” stands for user interface—the graphical portion of an app, website, or device that a human user interacts with. UI designers seek to make these layouts and interactive elements intuitive, accessible, and inclusive.",
-        "instructorImg": "../assets/pic2.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg?w=996&t=st=1666725227~exp=1666725827~hmac=c56bf331f757d128640cb9746411e01a5b7dcf60bbedb7fc0a049cce014982fb"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "classes": 56,
         "hours": 112,
         "details": "Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with..",
-        "instructorImg": "../assets/pic3.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/businessman-leader-modern-office-with-businesspeople-working_1139-959.jpg?w=996&t=st=1666725264~exp=1666725864~hmac=59cc3cc72b08ffccc9835114dde8f7b541db98ffbfe7e5c54a5340c809911eb5"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "classes": 26,
         "hours": 52,
         "details": "Shopify is an E-Commerce platform that allows you to build and manage Online Stores. The Shopify Website Design tools and templates can help users in developing an aesthetic outlook for your business.",
-        "instructorImg": "../assets/pic4.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/cheerful-young-caucasian-businessman_171337-727.jpg?w=996&t=st=1666725295~exp=1666725895~hmac=1c2e2aa1ae1413951e67feb1ff7d45f7c046a3d240dd642b0a7c8a84ddf21906"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "classes": 66,
         "hours": 132,
         "details": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based.",
-        "instructorImg": "../assets/pic6.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/portrait-cheerful-businessman-dressed-suit_171337-134.jpg?w=996&t=st=1666725303~exp=1666725903~hmac=1c4e288141ea3fcda5c3d4ea04bcee9217bdf7e1dda26a6106528e328072d4c1"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "classes": 48,
         "hours": 96,
         "details": "Motion graphics (sometimes mograph) are pieces of animation or digital footage which create the illusion of motion or rotation, and are usually combined with audio for use in multimedia projects.",
-        "instructorImg": "../assets/pic5.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/businesswoman-leader-modern-office-with-businesspeople-workin_1139-957.jpg?w=996&t=st=1666725116~exp=1666725716~hmac=f6dc2a873b284bc1c180e5ff355f92f727fcc7bc19630af7978ced872ba9e10d"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "classes": 16,
         "hours": 32,
         "details": "A computer is a. device for working with information. The information can be numbers, words, pictures, movies, or sounds. Computer information is also called data. Computers can process huge amounts of data very quickly.",
-        "instructorImg": "../assets/pic7.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/smiling-happy-afro-american-businessman-sitting-his-desk_171337-7276.jpg?w=996&t=st=1666725400~exp=1666726000~hmac=8baf4c80b84e1eb3ffd8036657f768c387dd4e4fce30f73df213da08c2f3137e"
     },
     {
         "id": 8,
@@ -77,6 +77,6 @@
         "classes": 12,
         "hours": 20,
         "details": "MS Excel is a commonly used Microsoft Office application. It is a spreadsheet program which is used to save and analyse numerical data. In this article, we bring to you the important features of MS Excel, along with an overview of how to use the program, its benefits and other important elements.",
-        "instructorImg": "../assets/pic8.jpg"
+        "instructorImg": "https://img.freepik.com/free-photo/worker-gesturing-with-his-left-hand_1149-184.jpg?w=1060&t=st=1666725358~exp=1666725958~hmac=8828bb5eb8eb03b74347f2067f1774311772bd342d0c0f35440d36f86caf4890"
     }
 ]
